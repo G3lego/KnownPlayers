@@ -2,12 +2,16 @@
   "$schema": "./schema.json",
   "players": [
     {
-      "name": "AeonAir",
-      "iconID": 109,
-      "color1": 29,
-      "color2": 3,
-      "shipID": 38,
-      "glow": false
+      "name": "g3lego55",
+      "iconID": 153,
+      "color1": 4,
+      "color2": 33,
+      "shipID": 159,
+      "ballID": 91,
+      "waveID": 45,
+      "robotID": 57,
+      "spiderID": 38,
+      "glow": true
     },
     {
       "name": "Colon",
@@ -332,11 +336,12 @@
       "glow": true
     },
     {
-      "name": "Danolex",
-      "iconID": 46,
-      "shipID": 9,
-      "color1": 3,
-      "color2": 11,
+       "name": "evoura",
+      "iconID": 3,
+      "color1": 5,
+      "color2": 3,
+      "shipID": 7,
+      "ballID": 9,
       "glow": true
     },
     {
