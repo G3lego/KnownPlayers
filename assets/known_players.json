@@ -2,12 +2,12 @@
   "$schema": "./schema.json",
   "players": [
     {
-      "name": "AeonAir",
-      "iconID": 109,
-      "color1": 29,
-      "color2": 3,
-      "shipID": 38,
-      "glow": false
+      "name": "g3lego55",
+      "iconID": 153,
+      "color1": 4,
+      "color2": 33,
+      "waveID": 45,
+      "glow": true
     },
     {
       "name": "Colon",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Flub",
-      "iconID": 25,
+      "iconID": 25w,
       "color1": 3,
       "color2": 12,
       "glow": true
